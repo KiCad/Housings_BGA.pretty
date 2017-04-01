@@ -70,7 +70,7 @@
   (pad B4 smd circle (at 0.4 -2) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad B3 smd circle (at -0.4 -2) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad B2 smd circle (at -1.2 -2) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
-  (model Housings_BGA.3dshapes\BGA-48_6x8_8.0x9.0mm_Pitch0.8mm.wrl
+  (model Housings_BGA.3dshapes/BGA-48_6x8_8.0x9.0mm_Pitch0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1183,7 +1183,7 @@
   (pad AP33 smd circle (at 15.5 16.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad AP34 smd circle (at 16.5 16.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at -16.5 -16.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model Housings_BGA.3dshapes\BGA-1156_34x34_35.0x35.0mm_Pitch1.0mm.wrl
+  (model Housings_BGA.3dshapes/BGA-1156_34x34_35.0x35.0mm_Pitch1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
