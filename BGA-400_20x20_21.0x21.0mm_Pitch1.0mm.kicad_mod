@@ -426,4 +426,9 @@
   (pad J12 smd circle (at 1.5 -1.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad J13 smd circle (at 2.5 -1.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad J14 smd circle (at 3.5 -1.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
+  (model Housings_BGA.3dshapes\BGA-400_20x20_21.0x21.0mm_Pitch1.0mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
