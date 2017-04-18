@@ -1,7 +1,6 @@
 (module DSBGA-8_2x4_0.9x1.9mm_Pitch0.5mm_Dia0.25mm (layer F.Cu) (tedit 58A1B5AE)
   (descr http://www.ti.com/lit/ml/mxbg020k/mxbg020k.pdf)
   (tags "DSBGA BGA YZP R-XBGA-N8 ")
-  (solder_mask_margin 0.05)
   (attr smd)
   (fp_text reference REF** (at 0 -2.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
