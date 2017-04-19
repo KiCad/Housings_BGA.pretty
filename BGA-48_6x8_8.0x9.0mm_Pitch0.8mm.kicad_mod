@@ -1,5 +1,6 @@
 (module BGA-48_6x8_8.0x9.0mm_Pitch0.8mm (layer F.Cu) (tedit 589717EE)
   (descr "BGA-48 - pitch 0.8 mm")
+  (tags BGA-48)
   (attr smd)
   (fp_text reference REF** (at 0 -5.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
