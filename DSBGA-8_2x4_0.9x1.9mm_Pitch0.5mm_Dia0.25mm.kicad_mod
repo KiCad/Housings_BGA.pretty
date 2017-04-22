@@ -1,5 +1,5 @@
 (module DSBGA-8_2x4_0.9x1.9mm_Pitch0.5mm_Dia0.25mm (layer F.Cu) (tedit 58A1B5AE)
-  (descr http://www.ti.com/lit/ml/mxbg020k/mxbg020k.pdf)
+  (descr http://www.ti.com/lit/ds/symlink/txb0102.pdf)
   (tags "DSBGA BGA YZP R-XBGA-N8 ")
   (attr smd)
   (fp_text reference REF** (at 0 -2.1) (layer F.SilkS)
