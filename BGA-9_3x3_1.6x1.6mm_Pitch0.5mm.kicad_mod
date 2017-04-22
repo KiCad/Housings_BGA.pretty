@@ -1,6 +1,6 @@
 (module BGA-9_3x3_1.6x1.6mm_Pitch0.5mm (layer F.Cu) (tedit 58979F51)
-  (descr "BGA-16, http://www.ti.com/lit/ds/symlink/bq27421-g1.pdf")
-  (tags BGA-16)
+  (descr "BGA-9, http://www.ti.com/lit/ds/symlink/bq27421-g1.pdf")
+  (tags BGA-9)
   (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
