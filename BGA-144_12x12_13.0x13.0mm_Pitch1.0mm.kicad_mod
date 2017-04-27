@@ -1,5 +1,5 @@
 (module BGA-144_12x12_13.0x13.0mm_Pitch1.0mm (layer F.Cu) (tedit 5897535C)
-  (descr BGA-144, http://www.topline.tv/drawings/pdf/BGA%201,0mm%20pitch/LBGA144T1.0-DC128.pdf)
+  (descr "BGA-144, http://www.topline.tv/drawings/pdf/BGA%201,0mm%20pitch/LBGA144T1.0-DC128.pdf")
   (tags BGA-144)
   (attr smd)
   (fp_text reference REF** (at 0 -7.5) (layer F.SilkS)
