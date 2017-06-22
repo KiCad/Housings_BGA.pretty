@@ -1,5 +1,5 @@
 (module UFBGA-132_7x7mm_Pitch0.5mm (layer F.Cu) (tedit 5948EFB9)
-  (descr "UFBGA 132 Pins, 0.5mm Pitch, 0.3mm Ball")
+  (descr "UFBGA 132 Pins, 0.5mm Pitch, 0.3mm Ball, http://www.st.com/resource/en/datasheet/stm32l486qg.pdf")
   (tags "ufbga bga small-pitch")
   (solder_mask_margin 0.05)
   (attr smd)
