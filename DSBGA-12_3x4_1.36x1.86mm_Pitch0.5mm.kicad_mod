@@ -1,4 +1,4 @@
-(module DSBGA-12_3x4_1.36x1.86mm_Pitch0.5mm (layer F.Cu) (tedit 594542D2)
+(module DSBGA-12_3x4_1.36x1.86mm_Pitch0.5mm (layer F.Cu) (tedit 594CE22D)
   (descr "DSBGA-12 http://www.ti.com/lit/an/snva009ag/snva009ag.pdf")
   (tags DSBGA-12)
   (attr smd)
