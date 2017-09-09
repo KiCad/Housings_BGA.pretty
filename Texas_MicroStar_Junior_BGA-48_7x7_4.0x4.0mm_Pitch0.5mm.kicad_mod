@@ -1,5 +1,5 @@
 (module Texas_MicroStar_Junior_BGA-48_7x7_4.0x4.0mm_Pitch0.5mm (layer F.Cu) (tedit 59AC6D2D)
-  (descr "Texas Instruments, BGA Microstar Junior, 4x4mm, 49 ball 7x7 grid, NSMD pad definition (http://www.ti.com/lit/ml/mpbg309/mpbg309.pdf, http://www.ti.com/lit/wp/ssyz015b/ssyz015b.pdf")
+  (descr "Texas Instruments, BGA Microstar Junior, 4x4mm, 48 ball 7x7 grid, NSMD pad definition (http://www.ti.com/lit/ml/mpbg309/mpbg309.pdf, http://www.ti.com/lit/wp/ssyz015b/ssyz015b.pdf")
   (tags Texas_Junior_BGA-48)
   (solder_mask_margin 0.05)
   (attr smd)
